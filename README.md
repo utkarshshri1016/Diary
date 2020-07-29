@@ -10,4 +10,4 @@ How to Run this in Local Server?<br>
   * Go to the "htdocs" subfolder.<br>
   * Clone the repository here.<br>
   * In Xampp control panel, start Apache and MYSQL.<br>
-  * In your Web Browser open the following URL -> [http://localhost/php/].
+  * In your Web Browser open the following URL ->[http://localhost/php/](http://localhost/php/)
