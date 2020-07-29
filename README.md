@@ -1,5 +1,5 @@
 # Diary
-A simple website which enables the user to store and save his thoughts.
+A simple website which enables the user to store and save his/her thoughts.
 
 Stuff required for this to work:
   1) A web server solution (I recommend [XAMPP](https://www.apachefriends.org/download.html))
